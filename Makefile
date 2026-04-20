@@ -2,7 +2,7 @@
 export THEOS=/home/codespace/theos
 
 ARCHS = arm64
-TARGET = iphone:14.5
+TARGET = iphone:16.5
 DEBUG = 0
 FINALPACKAGE = 1
 FOR_RELEASE = 1
