@@ -1,5 +1,5 @@
 
-export THEOS=/home/nam/theos
+export THEOS=/home/codespace/theos
 
 ARCHS = arm64
 TARGET = iphone:14.5
